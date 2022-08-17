@@ -1,5 +1,7 @@
 This program includes a method that takes in a specifically formatted graph - called a polytree - in a text file and subsequently compresses the tree.  
 
+The main.cpp is only used for testing purposes. The algorithm itself is found in poly.cpp and its included imports.  
+
 This program is written in C++.  
 
 The poly tree is formatted such that it is a non-directed graph, and each node has a particular numerical value. The compression works such that it performs a lossless compression so connected nodes with the same values are reduced into a single node.  
