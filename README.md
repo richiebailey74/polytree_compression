@@ -1,6 +1,6 @@
 This program includes a method that takes in a specifically formatted graph - called a polytree - in a text file and subsequently compresses the tree.  
 
-The main.cpp is only used for testing purposes. The algorithm itself is found in poly.cpp and its included imports.  
+The main.cpp is only used for testing purposes. The algorithm itself is found in Poly.cpp and its included imports.  
 
 This program is written in C++.  
 
